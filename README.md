@@ -3,6 +3,10 @@
 
 ![image](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasakii42&label=Profile%20views&color=0e75b6&style=flat" alt="hasakii42" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasakii42" alt="hasakii42" /></a> </p>
+
 - 🔭 I’m currently working on [Blockchain and solidity based projects](https://github.com/hasakii42/Blockchain)
 
 - 🌱 I’m currently learning **Flutter**
