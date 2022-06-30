@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasakii42&show_icons=true&locale=en" alt="hasakii42" /></p>
 
-![snake gif](https://github.com/hasakii42/hasakii42/blob/output/github-contribution-grid-snake.gif)
+![snakegif](https://github.com/hasakii42/hasakii42/blob/output/github-contribution-grid-snake.gif)
