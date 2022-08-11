@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help to **Build project to captalize**
 
-- 📲  Visit my portfolio https://hasakii42.github.io/Portfolio/
+-  🔗  Visit my portfolio  https://hasakii42.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
